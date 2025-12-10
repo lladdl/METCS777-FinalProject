@@ -80,6 +80,12 @@ Three main models:
 
   * False positives (model predicts arrest when none occurred)
   * False negatives (model misses true arrests)
+ 
+ #### **Mapping**
+
+ * Shape file of the community areas of Chicago used to map metrics
+ * Shape file and metrics csvs are used to create the visualizations
+ 
 
 
 
